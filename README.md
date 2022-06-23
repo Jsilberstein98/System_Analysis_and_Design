@@ -1,2 +1,21 @@
 # System_Analysis_and_Design
-Github repository for CS-255 course.
+
+Briefly summarize the DriverPass project. Who was the client? What type of system did they want you to design?
+
+ - DriverPass was a system that was created for the company DriverPass as a project aimed at assisting anyone who wanted assistance in learning to drive and cultivating the useful tools and applications to earn a drivers license or permit. Overall, the goal of the project was to create a program that made a one stop shop for assisting new drivers in ascertaining their certifications for driving, in a safe and efficient manner. The items that were designed for the program were the UI for several sets of users so they could access any information relative to this task in one centralized location. Additonally, the program wanted concurrent online and offline programs that were accessible by users on stationary and mobile devices. The online UI is what ultimately housed all interactions, while the offline program specifically houses booking information associated with an account. 
+
+What did you do particularly well?
+
+ - I feel that in this scenario, I did a fantastic job at identifying user needs and collective program needs, and ensuring that those were at the front of thought at all times. The end users were always the priority in terms of how the project was designed. This is evident in the description of how the systems work together, as well as how the system includes built in redundancies to ensure user accuracy and satisfaction.
+
+If you could choose one part of your work on these documents to revise, what would you pick? How would you improve it?
+
+ - In terms of the documents associated, the item I would choose to revise and work on more would have to be the cleanliness of some of the depicitons of diagrams. Some of the associations and sets of information could have certainly been more clear by implementing more diagrams to break down the information into more digestible chunks, and then using an overall set of diagrams to show the main set of interactions between the sub-diagrams. This, I believe, would aid in total clarity in the projects diagrams.
+
+How did you interpret the user’s needs and implement them into your system design? Why is it so important to consider the user’s needs when designing?
+
+ - In terms of interpreting the user's needs and implementing them, I started based on the initial interview that was conducted to see what was requested for the different users, and then worked through functionality from there. I stepped out of just being an analyst for this, and also jumped into the role of the consumer, administrator, IT support, and educator, to try and identify what their needs would be in this style of project. Ultimately, the importance of identifying users neccesities in projects as a whole falls on the fact that this is a program that needs to be functional and usable, as well as enjoyable for all parties involved. If I did not deliver that, then something was missed in analyzing and designing this project.
+
+How do you approach designing software? What techniques or strategies would you use in the future to analyze and design a system?
+
+ - In terms of an approach for the software design aspect, I wanted to cultivate new ideas and pioneering functions in this program while not totally reinventing the wheel. Technically speaking, the programs can have similar code makeup and even housing and compositional makeup, but where they differ should be in how that code is used, and what that means for the experience of the end-users. Going forward, I think some strategies I would implement in my analysis of systems and design processes, would probably center on a multi-step process. I woudl initially do my research on what the program in question is trying to be after conducting an interview to identify what the customer wants it to be. Following that, I would ensure swift communication at each phase of the project to guarantee that this is what the customer is looking for, as well as if we need to add or take away any functionalities. Once this is solidified, then I can proceed. Additionally, having sets of diagrams to graphically represent information is essential for ensuring complete buy-in from the customer as well as staff designing the program. I find this is paramount for the success of the project.
